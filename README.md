@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cosmasoften
 - 👀 I’m interested in tech and music marketing
-- 🌱 I’m currently learning react and wed development
+- 🌱 I’m currently learning react and web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via DM 
 
